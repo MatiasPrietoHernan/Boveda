@@ -10,12 +10,14 @@ Bienvenido a la Bóveda. Base de conocimiento de Matias Prieto — investigacion
 
 ## 📂 Contenido
 
-### LLMs
-- [[prefetch-precontexto-llm]] — Prefetch y pre-contexto para reducir alucinaciones en RAG
+### 🧉 La Juga (Arquitectura Agentica)
+- [[la-juga-prefetch]] — La receta completa: Prefetch + Filter Tree + Pre-contexto (con ejemplos y casos de uso)
+- [[estandar-agentes-prefetch]] — Estándar para implementar arquitectura agentica con prefetch en waiprop y futuros proyectos
+- [[prefetch-precontexto-llm]] — Descubrimiento original: prefetch y pre-contexto para reducir alucinaciones en RAG
 
-### Infraestructura
+### 🧠 Yubrin
+- [[ponderacion-agente-de-ia]] — Algoritmo de ponderación de leads Yubrin (Q + CL)
 - [[yubrin-redis-cache]] — Arquitectura Yubrin con Redis cache para Hot Sale
-- [[waiprop-deploy]] — Deploy Waiprop con Ansible + Traefik
 
-### Agentes
-- [[ponderacion-agente-de-ia]] — Algoritmo de ponderación de leads Yubrin
+### 🏢 Waiprop / Infraestructura
+- [[waiprop-deploy]] — Deploy Waiprop con Ansible + Traefik
