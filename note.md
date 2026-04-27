@@ -1,5 +1,7 @@
 ---
 type: Type
+_archived: true
+_sort: "created:desc"
 ---
 
 # Note

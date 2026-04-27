@@ -1,6 +1,7 @@
 ---
 type: Note
 _organized: true
+_archived: true
 ---
 
 # AGENTS.md — Tolaria Vault
